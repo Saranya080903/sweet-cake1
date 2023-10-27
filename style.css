@@ -106,7 +106,7 @@ html::-webkit-scrollbar-thumb{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(back.png) no-repeat;
+    background: url(back.png);
     background-size: cover;
     background-position: center center;
 }
@@ -207,7 +207,7 @@ section{
 }
 
 .blogs{
-    background: url(backGround.png) no-repeat;
+    background: url(backGround.png);
     background-size: cover;
     background-position: center center;
 }
@@ -251,7 +251,7 @@ section{
 }
  
 .newsletter{
-    background: url(new.jpg) no-repeat;
+    background: url(new.jpg);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
@@ -334,7 +334,7 @@ section{
 }
 
 .footer {
-    background: url(backGround.png) no-repeat;
+    background: url(backGround.png);
     background-size: cover;
     background-position: center center;
 }
